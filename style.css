@@ -1,0 +1,16 @@
+#camera {
+    width:3px dotted red; 
+    height: 100px;
+    width: 250px;
+}
+
+#result {
+    width:3px dotted red; 
+    height: 100px;
+    width: 250px;
+}
+
+body {
+    color:dodgerblue;
+    background-color: darkslategrey;
+}
